@@ -1,2 +1,3 @@
 # Coding-on-steroids
-Layout of the product company landing page on Bootstrap 4. 
+Responsive layout of the product company landing page. Build with Bootstrap 4 and minimum of additional styles.
+Demo: https://ostapenko25.github.io/Coding-on-steroids/
